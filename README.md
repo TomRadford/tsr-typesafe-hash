@@ -1,4 +1,4 @@
-# typesafe-hash
+# TanStack Router Typesafe hash / anchor navigation
 
 A minimal reproduction demonstrating type-safe hash navigation in TanStack Router using a `createSections` factory.
 

@@ -2,6 +2,8 @@
 
 A minimal reproduction demonstrating type-safe hash navigation in TanStack Router using a `createSections` factory.
 
+**[Live demo →](https://tsr-typesafe-hash.theradford.com)**
+
 ```bash
 pnpm install
 pnpm dev  # http://localhost:3002
